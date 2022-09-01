@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\bin\Debug\netcoreapp3.1\TryAgain.exe
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\bin\Debug\netcoreapp3.1\TryAgain.deps.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\bin\Debug\netcoreapp3.1\TryAgain.runtimeconfig.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\bin\Debug\netcoreapp3.1\TryAgain.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\bin\Debug\netcoreapp3.1\TryAgain.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\bin\Debug\netcoreapp3.1\TryAgain.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\obj\Debug\netcoreapp3.1\TryAgain.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\obj\Debug\netcoreapp3.1\TryAgain.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\obj\Debug\netcoreapp3.1\TryAgain.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\obj\Debug\netcoreapp3.1\TryAgain.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\obj\Debug\netcoreapp3.1\TryAgain.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\obj\Debug\netcoreapp3.1\TryAgain.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\TryAgain\obj\Debug\netcoreapp3.1\TryAgain.csprojAssemblyReference.cache

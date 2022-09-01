@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.exe
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.deps.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.genruntimeconfig.cache

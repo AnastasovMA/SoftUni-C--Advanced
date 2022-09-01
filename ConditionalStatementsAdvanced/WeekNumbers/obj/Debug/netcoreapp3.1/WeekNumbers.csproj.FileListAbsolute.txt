@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\bin\Debug\netcoreapp3.1\WeekNumbers.exe
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\bin\Debug\netcoreapp3.1\WeekNumbers.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\bin\Debug\netcoreapp3.1\WeekNumbers.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\bin\Debug\netcoreapp3.1\WeekNumbers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\bin\Debug\netcoreapp3.1\WeekNumbers.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\bin\Debug\netcoreapp3.1\WeekNumbers.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\obj\Debug\netcoreapp3.1\WeekNumbers.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\obj\Debug\netcoreapp3.1\WeekNumbers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\obj\Debug\netcoreapp3.1\WeekNumbers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\obj\Debug\netcoreapp3.1\WeekNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\obj\Debug\netcoreapp3.1\WeekNumbers.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\obj\Debug\netcoreapp3.1\WeekNumbers.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekNumbers\obj\Debug\netcoreapp3.1\WeekNumbers.genruntimeconfig.cache

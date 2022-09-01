@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\bin\Debug\netcoreapp3.1\SolidPrinciplesLab.exe
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\bin\Debug\netcoreapp3.1\SolidPrinciplesLab.deps.json
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\bin\Debug\netcoreapp3.1\SolidPrinciplesLab.runtimeconfig.json
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\bin\Debug\netcoreapp3.1\SolidPrinciplesLab.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\bin\Debug\netcoreapp3.1\SolidPrinciplesLab.dll
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\bin\Debug\netcoreapp3.1\SolidPrinciplesLab.pdb
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\obj\Debug\netcoreapp3.1\SolidPrinciplesLab.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\obj\Debug\netcoreapp3.1\SolidPrinciplesLab.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\obj\Debug\netcoreapp3.1\SolidPrinciplesLab.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\obj\Debug\netcoreapp3.1\SolidPrinciplesLab.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\obj\Debug\netcoreapp3.1\SolidPrinciplesLab.dll
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\obj\Debug\netcoreapp3.1\SolidPrinciplesLab.pdb
+C:\Users\MARIO\source\repos\SolidPrinciplesLab\SolidPrinciplesLab\obj\Debug\netcoreapp3.1\SolidPrinciplesLab.genruntimeconfig.cache

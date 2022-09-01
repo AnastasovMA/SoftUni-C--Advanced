@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

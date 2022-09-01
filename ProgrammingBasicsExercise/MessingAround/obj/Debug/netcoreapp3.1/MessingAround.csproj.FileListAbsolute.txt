@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\bin\Debug\netcoreapp3.1\MessingAround.exe
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\bin\Debug\netcoreapp3.1\MessingAround.deps.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\bin\Debug\netcoreapp3.1\MessingAround.runtimeconfig.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\bin\Debug\netcoreapp3.1\MessingAround.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\bin\Debug\netcoreapp3.1\MessingAround.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\bin\Debug\netcoreapp3.1\MessingAround.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\obj\Debug\netcoreapp3.1\MessingAround.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\obj\Debug\netcoreapp3.1\MessingAround.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\obj\Debug\netcoreapp3.1\MessingAround.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\obj\Debug\netcoreapp3.1\MessingAround.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\obj\Debug\netcoreapp3.1\MessingAround.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\obj\Debug\netcoreapp3.1\MessingAround.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\MessingAround\obj\Debug\netcoreapp3.1\MessingAround.genruntimeconfig.cache

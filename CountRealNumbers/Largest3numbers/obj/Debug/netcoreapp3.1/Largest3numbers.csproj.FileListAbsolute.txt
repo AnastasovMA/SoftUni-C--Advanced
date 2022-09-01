@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\bin\Debug\netcoreapp3.1\Largest3numbers.exe
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\bin\Debug\netcoreapp3.1\Largest3numbers.deps.json
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\bin\Debug\netcoreapp3.1\Largest3numbers.runtimeconfig.json
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\bin\Debug\netcoreapp3.1\Largest3numbers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\bin\Debug\netcoreapp3.1\Largest3numbers.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\bin\Debug\netcoreapp3.1\Largest3numbers.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\obj\Debug\netcoreapp3.1\Largest3numbers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\obj\Debug\netcoreapp3.1\Largest3numbers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\obj\Debug\netcoreapp3.1\Largest3numbers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\obj\Debug\netcoreapp3.1\Largest3numbers.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\obj\Debug\netcoreapp3.1\Largest3numbers.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\Largest3numbers\obj\Debug\netcoreapp3.1\Largest3numbers.genruntimeconfig.cache

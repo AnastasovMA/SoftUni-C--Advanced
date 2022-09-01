@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.genruntimeconfig.cache

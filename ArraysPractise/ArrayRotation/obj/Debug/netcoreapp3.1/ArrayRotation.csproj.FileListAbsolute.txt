@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.exe
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.deps.json
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.json
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.genruntimeconfig.cache

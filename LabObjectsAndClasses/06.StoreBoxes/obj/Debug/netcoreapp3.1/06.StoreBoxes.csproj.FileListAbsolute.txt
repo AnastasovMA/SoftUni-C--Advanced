@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\bin\Debug\netcoreapp3.1\06.StoreBoxes.exe
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\bin\Debug\netcoreapp3.1\06.StoreBoxes.deps.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\bin\Debug\netcoreapp3.1\06.StoreBoxes.runtimeconfig.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\bin\Debug\netcoreapp3.1\06.StoreBoxes.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\bin\Debug\netcoreapp3.1\06.StoreBoxes.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\bin\Debug\netcoreapp3.1\06.StoreBoxes.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\06.StoreBoxes\obj\Debug\netcoreapp3.1\06.StoreBoxes.genruntimeconfig.cache

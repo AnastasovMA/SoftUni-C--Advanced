@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\MARIO\source\repos\MatchFullName\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.genruntimeconfig.cache

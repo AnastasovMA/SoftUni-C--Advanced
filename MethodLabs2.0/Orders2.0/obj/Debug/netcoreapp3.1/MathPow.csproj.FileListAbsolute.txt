@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\bin\Debug\netcoreapp3.1\MathPow.exe
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\bin\Debug\netcoreapp3.1\MathPow.deps.json
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\bin\Debug\netcoreapp3.1\MathPow.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\bin\Debug\netcoreapp3.1\MathPow.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\bin\Debug\netcoreapp3.1\MathPow.dll
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\bin\Debug\netcoreapp3.1\MathPow.pdb
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\obj\Debug\netcoreapp3.1\MathPow.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\obj\Debug\netcoreapp3.1\MathPow.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\obj\Debug\netcoreapp3.1\MathPow.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\obj\Debug\netcoreapp3.1\MathPow.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\obj\Debug\netcoreapp3.1\MathPow.dll
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\obj\Debug\netcoreapp3.1\MathPow.pdb
+C:\Users\MARIO\source\repos\MethodLabs2.0\Orders2.0\obj\Debug\netcoreapp3.1\MathPow.genruntimeconfig.cache

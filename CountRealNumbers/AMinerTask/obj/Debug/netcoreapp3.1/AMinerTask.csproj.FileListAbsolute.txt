@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.exe
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.deps.json
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.json
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.genruntimeconfig.cache

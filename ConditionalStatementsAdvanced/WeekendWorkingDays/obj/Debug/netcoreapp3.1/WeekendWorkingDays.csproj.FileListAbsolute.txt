@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\bin\Debug\netcoreapp3.1\WeekendWorkingDays.exe
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\bin\Debug\netcoreapp3.1\WeekendWorkingDays.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\bin\Debug\netcoreapp3.1\WeekendWorkingDays.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\bin\Debug\netcoreapp3.1\WeekendWorkingDays.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\bin\Debug\netcoreapp3.1\WeekendWorkingDays.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\bin\Debug\netcoreapp3.1\WeekendWorkingDays.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\obj\Debug\netcoreapp3.1\WeekendWorkingDays.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\obj\Debug\netcoreapp3.1\WeekendWorkingDays.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\obj\Debug\netcoreapp3.1\WeekendWorkingDays.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\obj\Debug\netcoreapp3.1\WeekendWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\obj\Debug\netcoreapp3.1\WeekendWorkingDays.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\obj\Debug\netcoreapp3.1\WeekendWorkingDays.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\WeekendWorkingDays\obj\Debug\netcoreapp3.1\WeekendWorkingDays.genruntimeconfig.cache

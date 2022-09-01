@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.exe
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.deps.json
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+C:\Users\MARIO\source\repos\MethodsLabs\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.exe
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.deps.json
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.json
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\MARIO\source\repos\PascalTriangle\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.genruntimeconfig.cache

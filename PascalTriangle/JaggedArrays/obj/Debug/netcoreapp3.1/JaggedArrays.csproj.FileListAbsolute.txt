@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.exe
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.deps.json
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.runtimeconfig.json
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.dll
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.pdb
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.dll
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.pdb
+C:\Users\MARIO\source\repos\PascalTriangle\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.genruntimeconfig.cache

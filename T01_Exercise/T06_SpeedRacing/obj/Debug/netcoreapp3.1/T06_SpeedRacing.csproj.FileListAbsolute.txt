@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\bin\Debug\netcoreapp3.1\T06_SpeedRacing.exe
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\bin\Debug\netcoreapp3.1\T06_SpeedRacing.deps.json
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\bin\Debug\netcoreapp3.1\T06_SpeedRacing.runtimeconfig.json
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\bin\Debug\netcoreapp3.1\T06_SpeedRacing.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\bin\Debug\netcoreapp3.1\T06_SpeedRacing.dll
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\bin\Debug\netcoreapp3.1\T06_SpeedRacing.pdb
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\obj\Debug\netcoreapp3.1\T06_SpeedRacing.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\obj\Debug\netcoreapp3.1\T06_SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\obj\Debug\netcoreapp3.1\T06_SpeedRacing.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\obj\Debug\netcoreapp3.1\T06_SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\obj\Debug\netcoreapp3.1\T06_SpeedRacing.dll
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\obj\Debug\netcoreapp3.1\T06_SpeedRacing.pdb
+C:\Users\MARIO\source\repos\T01_Exercise\T06_SpeedRacing\obj\Debug\netcoreapp3.1\T06_SpeedRacing.genruntimeconfig.cache

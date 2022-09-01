@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\bin\Debug\netcoreapp3.1\ListManipulationBasics.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListManipulationBasics\obj\Debug\netcoreapp3.1\ListManipulationBasics.csprojAssemblyReference.cache

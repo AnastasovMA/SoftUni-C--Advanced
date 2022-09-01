@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.exe
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.deps.json
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.json
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.dll
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.dll
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.genruntimeconfig.cache

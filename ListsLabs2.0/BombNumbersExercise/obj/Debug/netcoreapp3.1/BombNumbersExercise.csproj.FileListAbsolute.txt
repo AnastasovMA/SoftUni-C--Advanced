@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\bin\Debug\netcoreapp3.1\BombNumbersExercise.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\bin\Debug\netcoreapp3.1\BombNumbersExercise.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\bin\Debug\netcoreapp3.1\BombNumbersExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\bin\Debug\netcoreapp3.1\BombNumbersExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\bin\Debug\netcoreapp3.1\BombNumbersExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\bin\Debug\netcoreapp3.1\BombNumbersExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\obj\Debug\netcoreapp3.1\BombNumbersExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\obj\Debug\netcoreapp3.1\BombNumbersExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\obj\Debug\netcoreapp3.1\BombNumbersExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\obj\Debug\netcoreapp3.1\BombNumbersExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\obj\Debug\netcoreapp3.1\BombNumbersExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\obj\Debug\netcoreapp3.1\BombNumbersExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\BombNumbersExercise\obj\Debug\netcoreapp3.1\BombNumbersExercise.genruntimeconfig.cache

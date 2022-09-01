@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\bin\Debug\netcoreapp3.1\CountChartsInString.exe
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\bin\Debug\netcoreapp3.1\CountChartsInString.deps.json
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\bin\Debug\netcoreapp3.1\CountChartsInString.runtimeconfig.json
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\bin\Debug\netcoreapp3.1\CountChartsInString.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\bin\Debug\netcoreapp3.1\CountChartsInString.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\bin\Debug\netcoreapp3.1\CountChartsInString.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\obj\Debug\netcoreapp3.1\CountChartsInString.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\obj\Debug\netcoreapp3.1\CountChartsInString.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\obj\Debug\netcoreapp3.1\CountChartsInString.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\obj\Debug\netcoreapp3.1\CountChartsInString.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\obj\Debug\netcoreapp3.1\CountChartsInString.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\obj\Debug\netcoreapp3.1\CountChartsInString.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\Test1\obj\Debug\netcoreapp3.1\CountChartsInString.genruntimeconfig.cache

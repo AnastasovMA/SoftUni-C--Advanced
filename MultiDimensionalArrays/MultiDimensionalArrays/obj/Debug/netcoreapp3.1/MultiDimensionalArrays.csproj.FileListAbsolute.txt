@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.1\MultiDimensionalArrays.exe
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.1\MultiDimensionalArrays.deps.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.1\MultiDimensionalArrays.runtimeconfig.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.1\MultiDimensionalArrays.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.1\MultiDimensionalArrays.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\netcoreapp3.1\MultiDimensionalArrays.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.1\MultiDimensionalArrays.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.1\MultiDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.1\MultiDimensionalArrays.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.1\MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.1\MultiDimensionalArrays.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.1\MultiDimensionalArrays.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\netcoreapp3.1\MultiDimensionalArrays.genruntimeconfig.cache

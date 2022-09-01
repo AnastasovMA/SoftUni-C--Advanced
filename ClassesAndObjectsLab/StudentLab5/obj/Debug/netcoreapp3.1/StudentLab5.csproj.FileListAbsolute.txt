@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\obj\Debug\netcoreapp3.1\StudentLab5.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\obj\Debug\netcoreapp3.1\StudentLab5.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\obj\Debug\netcoreapp3.1\StudentLab5.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\bin\Debug\netcoreapp3.1\StudentLab5.exe
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\bin\Debug\netcoreapp3.1\StudentLab5.deps.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\bin\Debug\netcoreapp3.1\StudentLab5.runtimeconfig.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\bin\Debug\netcoreapp3.1\StudentLab5.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\bin\Debug\netcoreapp3.1\StudentLab5.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\bin\Debug\netcoreapp3.1\StudentLab5.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\obj\Debug\netcoreapp3.1\StudentLab5.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\obj\Debug\netcoreapp3.1\StudentLab5.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StudentLab5\obj\Debug\netcoreapp3.1\StudentLab5.genruntimeconfig.cache

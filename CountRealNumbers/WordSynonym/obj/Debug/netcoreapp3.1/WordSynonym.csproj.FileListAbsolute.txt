@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\bin\Debug\netcoreapp3.1\WordSynonym.exe
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\bin\Debug\netcoreapp3.1\WordSynonym.deps.json
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\bin\Debug\netcoreapp3.1\WordSynonym.runtimeconfig.json
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\bin\Debug\netcoreapp3.1\WordSynonym.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\bin\Debug\netcoreapp3.1\WordSynonym.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\bin\Debug\netcoreapp3.1\WordSynonym.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\obj\Debug\netcoreapp3.1\WordSynonym.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\obj\Debug\netcoreapp3.1\WordSynonym.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\obj\Debug\netcoreapp3.1\WordSynonym.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\obj\Debug\netcoreapp3.1\WordSynonym.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\obj\Debug\netcoreapp3.1\WordSynonym.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\obj\Debug\netcoreapp3.1\WordSynonym.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\WordSynonym\obj\Debug\netcoreapp3.1\WordSynonym.genruntimeconfig.cache

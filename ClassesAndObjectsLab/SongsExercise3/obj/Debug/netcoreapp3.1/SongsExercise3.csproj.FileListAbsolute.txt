@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\bin\Debug\netcoreapp3.1\SongsExercise3.exe
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\bin\Debug\netcoreapp3.1\SongsExercise3.deps.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\bin\Debug\netcoreapp3.1\SongsExercise3.runtimeconfig.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\bin\Debug\netcoreapp3.1\SongsExercise3.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\bin\Debug\netcoreapp3.1\SongsExercise3.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\bin\Debug\netcoreapp3.1\SongsExercise3.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\obj\Debug\netcoreapp3.1\SongsExercise3.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\obj\Debug\netcoreapp3.1\SongsExercise3.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\obj\Debug\netcoreapp3.1\SongsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\obj\Debug\netcoreapp3.1\SongsExercise3.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\obj\Debug\netcoreapp3.1\SongsExercise3.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\SongsExercise3\obj\Debug\netcoreapp3.1\SongsExercise3.genruntimeconfig.cache

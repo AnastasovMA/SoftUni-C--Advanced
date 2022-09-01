@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\MARIO\source\repos\MethodsExercise2.0\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.exe
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.deps.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.runtimeconfig.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.genruntimeconfig.cache

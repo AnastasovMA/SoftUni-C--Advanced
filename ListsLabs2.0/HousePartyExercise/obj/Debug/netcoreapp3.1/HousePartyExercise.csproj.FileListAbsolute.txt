@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\bin\Debug\netcoreapp3.1\HousePartyExercise.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\bin\Debug\netcoreapp3.1\HousePartyExercise.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\bin\Debug\netcoreapp3.1\HousePartyExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\bin\Debug\netcoreapp3.1\HousePartyExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\bin\Debug\netcoreapp3.1\HousePartyExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\bin\Debug\netcoreapp3.1\HousePartyExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\obj\Debug\netcoreapp3.1\HousePartyExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\obj\Debug\netcoreapp3.1\HousePartyExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\obj\Debug\netcoreapp3.1\HousePartyExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\obj\Debug\netcoreapp3.1\HousePartyExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\obj\Debug\netcoreapp3.1\HousePartyExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\obj\Debug\netcoreapp3.1\HousePartyExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\HousePartyExercise\obj\Debug\netcoreapp3.1\HousePartyExercise.genruntimeconfig.cache

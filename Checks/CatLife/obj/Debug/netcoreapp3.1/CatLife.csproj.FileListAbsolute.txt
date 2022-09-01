@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Checks\CatLife\bin\Debug\netcoreapp3.1\CatLife.exe
+C:\Users\MARIO\source\repos\Checks\CatLife\bin\Debug\netcoreapp3.1\CatLife.deps.json
+C:\Users\MARIO\source\repos\Checks\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.json
+C:\Users\MARIO\source\repos\Checks\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Checks\CatLife\bin\Debug\netcoreapp3.1\CatLife.dll
+C:\Users\MARIO\source\repos\Checks\CatLife\bin\Debug\netcoreapp3.1\CatLife.pdb
+C:\Users\MARIO\source\repos\Checks\CatLife\obj\Debug\netcoreapp3.1\CatLife.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\Checks\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Checks\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Checks\CatLife\obj\Debug\netcoreapp3.1\CatLife.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Checks\CatLife\obj\Debug\netcoreapp3.1\CatLife.dll
+C:\Users\MARIO\source\repos\Checks\CatLife\obj\Debug\netcoreapp3.1\CatLife.pdb
+C:\Users\MARIO\source\repos\Checks\CatLife\obj\Debug\netcoreapp3.1\CatLife.genruntimeconfig.cache

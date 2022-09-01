@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.exe
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.deps.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.genruntimeconfig.cache

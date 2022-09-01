@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.exe
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.deps.json
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.runtimeconfig.json
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.genruntimeconfig.cache

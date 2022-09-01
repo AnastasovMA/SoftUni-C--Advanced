@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\bin\Debug\netcoreapp3.1\Voleyball.exe
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\bin\Debug\netcoreapp3.1\Voleyball.deps.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\bin\Debug\netcoreapp3.1\Voleyball.runtimeconfig.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\bin\Debug\netcoreapp3.1\Voleyball.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\bin\Debug\netcoreapp3.1\Voleyball.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\bin\Debug\netcoreapp3.1\Voleyball.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\obj\Debug\netcoreapp3.1\Voleyball.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\obj\Debug\netcoreapp3.1\Voleyball.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\obj\Debug\netcoreapp3.1\Voleyball.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\obj\Debug\netcoreapp3.1\Voleyball.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\obj\Debug\netcoreapp3.1\Voleyball.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\obj\Debug\netcoreapp3.1\Voleyball.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\Voleyball\obj\Debug\netcoreapp3.1\Voleyball.genruntimeconfig.cache

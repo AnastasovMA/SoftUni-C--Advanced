@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\bin\Debug\netcoreapp3.1\WarmWinterExam.exe
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\bin\Debug\netcoreapp3.1\WarmWinterExam.deps.json
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\bin\Debug\netcoreapp3.1\WarmWinterExam.runtimeconfig.json
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\bin\Debug\netcoreapp3.1\WarmWinterExam.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\bin\Debug\netcoreapp3.1\WarmWinterExam.dll
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\bin\Debug\netcoreapp3.1\WarmWinterExam.pdb
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\obj\Debug\netcoreapp3.1\WarmWinterExam.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\obj\Debug\netcoreapp3.1\WarmWinterExam.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\obj\Debug\netcoreapp3.1\WarmWinterExam.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\obj\Debug\netcoreapp3.1\WarmWinterExam.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\obj\Debug\netcoreapp3.1\WarmWinterExam.dll
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\obj\Debug\netcoreapp3.1\WarmWinterExam.pdb
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\WarmWinterExam\obj\Debug\netcoreapp3.1\WarmWinterExam.genruntimeconfig.cache

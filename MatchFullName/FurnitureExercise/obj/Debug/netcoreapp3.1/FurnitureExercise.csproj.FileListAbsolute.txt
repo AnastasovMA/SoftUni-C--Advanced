@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\bin\Debug\netcoreapp3.1\FurnitureExercise.exe
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\bin\Debug\netcoreapp3.1\FurnitureExercise.deps.json
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\bin\Debug\netcoreapp3.1\FurnitureExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\bin\Debug\netcoreapp3.1\FurnitureExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\bin\Debug\netcoreapp3.1\FurnitureExercise.dll
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\bin\Debug\netcoreapp3.1\FurnitureExercise.pdb
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\obj\Debug\netcoreapp3.1\FurnitureExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\obj\Debug\netcoreapp3.1\FurnitureExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\obj\Debug\netcoreapp3.1\FurnitureExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\obj\Debug\netcoreapp3.1\FurnitureExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\obj\Debug\netcoreapp3.1\FurnitureExercise.dll
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\obj\Debug\netcoreapp3.1\FurnitureExercise.pdb
+C:\Users\MARIO\source\repos\MatchFullName\FurnitureExercise\obj\Debug\netcoreapp3.1\FurnitureExercise.genruntimeconfig.cache

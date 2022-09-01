@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.exe
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.deps.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.genruntimeconfig.cache

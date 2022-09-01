@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\bin\Debug\netcoreapp3.1\T05_Exercise.exe
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\bin\Debug\netcoreapp3.1\T05_Exercise.deps.json
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\bin\Debug\netcoreapp3.1\T05_Exercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\bin\Debug\netcoreapp3.1\T05_Exercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\bin\Debug\netcoreapp3.1\T05_Exercise.dll
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\bin\Debug\netcoreapp3.1\T05_Exercise.pdb
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\obj\Debug\netcoreapp3.1\T05_Exercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\obj\Debug\netcoreapp3.1\T05_Exercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\obj\Debug\netcoreapp3.1\T05_Exercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\obj\Debug\netcoreapp3.1\T05_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\obj\Debug\netcoreapp3.1\T05_Exercise.dll
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\obj\Debug\netcoreapp3.1\T05_Exercise.pdb
+C:\Users\MARIO\source\repos\T01_Exercise\T05_Exercise\obj\Debug\netcoreapp3.1\T05_Exercise.genruntimeconfig.cache

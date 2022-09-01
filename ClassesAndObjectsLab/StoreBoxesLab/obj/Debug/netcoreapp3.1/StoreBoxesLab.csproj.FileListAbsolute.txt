@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\bin\Debug\netcoreapp3.1\StoreBoxesLab.exe
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\bin\Debug\netcoreapp3.1\StoreBoxesLab.deps.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\bin\Debug\netcoreapp3.1\StoreBoxesLab.runtimeconfig.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\bin\Debug\netcoreapp3.1\StoreBoxesLab.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\bin\Debug\netcoreapp3.1\StoreBoxesLab.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\bin\Debug\netcoreapp3.1\StoreBoxesLab.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\obj\Debug\netcoreapp3.1\StoreBoxesLab.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\obj\Debug\netcoreapp3.1\StoreBoxesLab.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\obj\Debug\netcoreapp3.1\StoreBoxesLab.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\obj\Debug\netcoreapp3.1\StoreBoxesLab.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\obj\Debug\netcoreapp3.1\StoreBoxesLab.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\obj\Debug\netcoreapp3.1\StoreBoxesLab.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsLab\StoreBoxesLab\obj\Debug\netcoreapp3.1\StoreBoxesLab.genruntimeconfig.cache

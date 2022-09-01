@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.exe
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.deps.json
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.runtimeconfig.json
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.dll
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.pdb
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.dll
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.pdb
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\bin\Debug\netcoreapp3.1\WorldRecord2.exe
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\bin\Debug\netcoreapp3.1\WorldRecord2.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\bin\Debug\netcoreapp3.1\WorldRecord2.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\bin\Debug\netcoreapp3.1\WorldRecord2.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\bin\Debug\netcoreapp3.1\WorldRecord2.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\bin\Debug\netcoreapp3.1\WorldRecord2.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\obj\Debug\netcoreapp3.1\WorldRecord2.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\obj\Debug\netcoreapp3.1\WorldRecord2.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\obj\Debug\netcoreapp3.1\WorldRecord2.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\obj\Debug\netcoreapp3.1\WorldRecord2.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\obj\Debug\netcoreapp3.1\WorldRecord2.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\obj\Debug\netcoreapp3.1\WorldRecord2.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\WorldRecord2\obj\Debug\netcoreapp3.1\WorldRecord2.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\obj\Debug\netcoreapp3.1\FishTank.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache

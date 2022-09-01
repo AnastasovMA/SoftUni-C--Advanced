@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.exe
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.deps.json
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.json
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.genruntimeconfig.cache

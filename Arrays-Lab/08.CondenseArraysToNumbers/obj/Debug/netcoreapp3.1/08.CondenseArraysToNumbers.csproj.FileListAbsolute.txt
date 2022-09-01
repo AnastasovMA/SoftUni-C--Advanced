@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\bin\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.exe
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\bin\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.deps.json
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\bin\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.runtimeconfig.json
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\bin\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\bin\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\bin\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\obj\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\obj\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\obj\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\obj\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\obj\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\obj\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\08.CondenseArraysToNumbers\obj\Debug\netcoreapp3.1\08.CondenseArraysToNumbers.genruntimeconfig.cache

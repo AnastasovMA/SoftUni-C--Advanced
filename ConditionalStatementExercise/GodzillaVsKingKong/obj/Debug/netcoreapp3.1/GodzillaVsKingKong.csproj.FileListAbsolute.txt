@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.exe
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.csprojAssemblyReference.cache

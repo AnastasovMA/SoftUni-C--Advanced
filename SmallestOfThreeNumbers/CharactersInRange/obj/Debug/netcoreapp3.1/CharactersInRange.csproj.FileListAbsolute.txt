@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.exe
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.deps.json
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.runtimeconfig.json
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.dll
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\bin\Debug\netcoreapp3.1\CharactersInRange.pdb
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.dll
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.pdb
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\CharactersInRange\obj\Debug\netcoreapp3.1\CharactersInRange.genruntimeconfig.cache

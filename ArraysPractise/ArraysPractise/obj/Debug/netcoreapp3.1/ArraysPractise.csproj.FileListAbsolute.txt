@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\bin\Debug\netcoreapp3.1\ArraysPractise.exe
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\bin\Debug\netcoreapp3.1\ArraysPractise.deps.json
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\bin\Debug\netcoreapp3.1\ArraysPractise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\bin\Debug\netcoreapp3.1\ArraysPractise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\bin\Debug\netcoreapp3.1\ArraysPractise.dll
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\bin\Debug\netcoreapp3.1\ArraysPractise.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\obj\Debug\netcoreapp3.1\ArraysPractise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\obj\Debug\netcoreapp3.1\ArraysPractise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\obj\Debug\netcoreapp3.1\ArraysPractise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\obj\Debug\netcoreapp3.1\ArraysPractise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\obj\Debug\netcoreapp3.1\ArraysPractise.dll
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\obj\Debug\netcoreapp3.1\ArraysPractise.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\ArraysPractise\obj\Debug\netcoreapp3.1\ArraysPractise.genruntimeconfig.cache

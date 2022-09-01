@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ScholarshipExercise/1.0.0": {
+        "runtime": {
+          "ScholarshipExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScholarshipExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

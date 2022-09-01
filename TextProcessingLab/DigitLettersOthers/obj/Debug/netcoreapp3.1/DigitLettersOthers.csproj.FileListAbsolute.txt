@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\bin\Debug\netcoreapp3.1\DigitLettersOthers.exe
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\bin\Debug\netcoreapp3.1\DigitLettersOthers.deps.json
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\bin\Debug\netcoreapp3.1\DigitLettersOthers.runtimeconfig.json
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\bin\Debug\netcoreapp3.1\DigitLettersOthers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\bin\Debug\netcoreapp3.1\DigitLettersOthers.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\bin\Debug\netcoreapp3.1\DigitLettersOthers.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\obj\Debug\netcoreapp3.1\DigitLettersOthers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\obj\Debug\netcoreapp3.1\DigitLettersOthers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\obj\Debug\netcoreapp3.1\DigitLettersOthers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\obj\Debug\netcoreapp3.1\DigitLettersOthers.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\obj\Debug\netcoreapp3.1\DigitLettersOthers.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\DigitLettersOthers\obj\Debug\netcoreapp3.1\DigitLettersOthers.genruntimeconfig.cache

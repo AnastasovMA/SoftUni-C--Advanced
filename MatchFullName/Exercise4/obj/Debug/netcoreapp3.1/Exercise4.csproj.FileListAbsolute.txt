@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\MARIO\source\repos\MatchFullName\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache

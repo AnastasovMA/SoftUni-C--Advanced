@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\bin\Debug\netcoreapp3.1\NxN.exe
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\bin\Debug\netcoreapp3.1\NxN.deps.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\bin\Debug\netcoreapp3.1\NxN.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\bin\Debug\netcoreapp3.1\NxN.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\bin\Debug\netcoreapp3.1\NxN.dll
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\bin\Debug\netcoreapp3.1\NxN.pdb
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\obj\Debug\netcoreapp3.1\NxN.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\obj\Debug\netcoreapp3.1\NxN.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\obj\Debug\netcoreapp3.1\NxN.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\obj\Debug\netcoreapp3.1\NxN.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\obj\Debug\netcoreapp3.1\NxN.dll
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\obj\Debug\netcoreapp3.1\NxN.pdb
+C:\Users\MARIO\source\repos\MethodsExercise2.0\NxN\obj\Debug\netcoreapp3.1\NxN.genruntimeconfig.cache

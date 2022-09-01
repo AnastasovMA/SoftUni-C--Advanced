@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.exe
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.deps.json
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.runtimeconfig.json
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.dll
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.pdb
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.dll
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.pdb
+C:\Users\MARIO\source\repos\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\netcoreapp3.1\AbstractClassesAndInterfaces.genruntimeconfig.cache

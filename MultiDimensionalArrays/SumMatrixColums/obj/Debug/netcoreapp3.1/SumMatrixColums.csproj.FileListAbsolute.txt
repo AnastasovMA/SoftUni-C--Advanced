@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.exe
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.deps.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.runtimeconfig.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.genruntimeconfig.cache

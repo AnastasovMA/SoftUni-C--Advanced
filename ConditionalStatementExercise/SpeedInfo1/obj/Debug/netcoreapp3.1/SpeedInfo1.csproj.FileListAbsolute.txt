@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\bin\Debug\netcoreapp3.1\SpeedInfo1.exe
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\bin\Debug\netcoreapp3.1\SpeedInfo1.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\bin\Debug\netcoreapp3.1\SpeedInfo1.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\bin\Debug\netcoreapp3.1\SpeedInfo1.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\bin\Debug\netcoreapp3.1\SpeedInfo1.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\bin\Debug\netcoreapp3.1\SpeedInfo1.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\obj\Debug\netcoreapp3.1\SpeedInfo1.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\obj\Debug\netcoreapp3.1\SpeedInfo1.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\obj\Debug\netcoreapp3.1\SpeedInfo1.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\obj\Debug\netcoreapp3.1\SpeedInfo1.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\obj\Debug\netcoreapp3.1\SpeedInfo1.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\obj\Debug\netcoreapp3.1\SpeedInfo1.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\SpeedInfo1\obj\Debug\netcoreapp3.1\SpeedInfo1.genruntimeconfig.cache

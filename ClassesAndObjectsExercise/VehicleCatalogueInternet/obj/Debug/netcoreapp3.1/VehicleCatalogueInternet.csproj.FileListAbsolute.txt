@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\bin\Debug\netcoreapp3.1\VehicleCatalogueInternet.exe
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\bin\Debug\netcoreapp3.1\VehicleCatalogueInternet.deps.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\bin\Debug\netcoreapp3.1\VehicleCatalogueInternet.runtimeconfig.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\bin\Debug\netcoreapp3.1\VehicleCatalogueInternet.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\bin\Debug\netcoreapp3.1\VehicleCatalogueInternet.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\bin\Debug\netcoreapp3.1\VehicleCatalogueInternet.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\obj\Debug\netcoreapp3.1\VehicleCatalogueInternet.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\obj\Debug\netcoreapp3.1\VehicleCatalogueInternet.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\obj\Debug\netcoreapp3.1\VehicleCatalogueInternet.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\obj\Debug\netcoreapp3.1\VehicleCatalogueInternet.dll
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\obj\Debug\netcoreapp3.1\VehicleCatalogueInternet.pdb
+C:\Users\MARIO\source\repos\ClassesAndObjectsExercise\VehicleCatalogueInternet\obj\Debug\netcoreapp3.1\VehicleCatalogueInternet.genruntimeconfig.cache

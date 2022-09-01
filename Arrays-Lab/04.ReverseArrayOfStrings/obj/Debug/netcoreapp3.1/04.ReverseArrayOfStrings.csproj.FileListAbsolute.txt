@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.exe
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.deps.json
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.genruntimeconfig.cache

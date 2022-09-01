@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\bin\Debug\netcoreapp3.1\TrainsExercise.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\bin\Debug\netcoreapp3.1\TrainsExercise.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\bin\Debug\netcoreapp3.1\TrainsExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\bin\Debug\netcoreapp3.1\TrainsExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\bin\Debug\netcoreapp3.1\TrainsExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\bin\Debug\netcoreapp3.1\TrainsExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\obj\Debug\netcoreapp3.1\TrainsExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\obj\Debug\netcoreapp3.1\TrainsExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\obj\Debug\netcoreapp3.1\TrainsExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\obj\Debug\netcoreapp3.1\TrainsExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\obj\Debug\netcoreapp3.1\TrainsExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\obj\Debug\netcoreapp3.1\TrainsExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\TrainsExercise\obj\Debug\netcoreapp3.1\TrainsExercise.genruntimeconfig.cache

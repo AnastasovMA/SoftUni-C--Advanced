@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\bin\Debug\netcoreapp3.1\ExamReVolt.exe
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\bin\Debug\netcoreapp3.1\ExamReVolt.deps.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\bin\Debug\netcoreapp3.1\ExamReVolt.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\bin\Debug\netcoreapp3.1\ExamReVolt.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\bin\Debug\netcoreapp3.1\ExamReVolt.dll
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\bin\Debug\netcoreapp3.1\ExamReVolt.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\obj\Debug\netcoreapp3.1\ExamReVolt.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\obj\Debug\netcoreapp3.1\ExamReVolt.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\obj\Debug\netcoreapp3.1\ExamReVolt.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\obj\Debug\netcoreapp3.1\ExamReVolt.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\obj\Debug\netcoreapp3.1\ExamReVolt.dll
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\obj\Debug\netcoreapp3.1\ExamReVolt.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\ExamReVolt\obj\Debug\netcoreapp3.1\ExamReVolt.genruntimeconfig.cache

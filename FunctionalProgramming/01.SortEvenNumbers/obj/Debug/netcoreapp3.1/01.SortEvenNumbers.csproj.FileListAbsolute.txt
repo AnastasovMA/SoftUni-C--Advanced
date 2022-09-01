@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.exe
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.deps.json
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.runtimeconfig.json
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.dll
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\bin\Debug\netcoreapp3.1\01.SortEvenNumbers.pdb
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.dll
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.pdb
+C:\Users\MARIO\source\repos\FunctionalProgramming\01.SortEvenNumbers\obj\Debug\netcoreapp3.1\01.SortEvenNumbers.genruntimeconfig.cache

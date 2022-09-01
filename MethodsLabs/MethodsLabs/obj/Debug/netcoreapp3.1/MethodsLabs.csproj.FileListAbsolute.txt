@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\bin\Debug\netcoreapp3.1\MethodsLabs.exe
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\bin\Debug\netcoreapp3.1\MethodsLabs.deps.json
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\bin\Debug\netcoreapp3.1\MethodsLabs.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\bin\Debug\netcoreapp3.1\MethodsLabs.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\bin\Debug\netcoreapp3.1\MethodsLabs.dll
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\bin\Debug\netcoreapp3.1\MethodsLabs.pdb
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\obj\Debug\netcoreapp3.1\MethodsLabs.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\obj\Debug\netcoreapp3.1\MethodsLabs.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\obj\Debug\netcoreapp3.1\MethodsLabs.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\obj\Debug\netcoreapp3.1\MethodsLabs.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\obj\Debug\netcoreapp3.1\MethodsLabs.dll
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\obj\Debug\netcoreapp3.1\MethodsLabs.pdb
+C:\Users\MARIO\source\repos\MethodsLabs\MethodsLabs\obj\Debug\netcoreapp3.1\MethodsLabs.genruntimeconfig.cache

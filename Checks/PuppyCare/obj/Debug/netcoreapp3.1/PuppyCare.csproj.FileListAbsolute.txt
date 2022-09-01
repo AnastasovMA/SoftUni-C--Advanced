@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Checks\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.exe
+C:\Users\MARIO\source\repos\Checks\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.deps.json
+C:\Users\MARIO\source\repos\Checks\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.runtimeconfig.json
+C:\Users\MARIO\source\repos\Checks\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Checks\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.dll
+C:\Users\MARIO\source\repos\Checks\PuppyCare\bin\Debug\netcoreapp3.1\PuppyCare.pdb
+C:\Users\MARIO\source\repos\Checks\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Checks\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Checks\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Checks\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.dll
+C:\Users\MARIO\source\repos\Checks\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.pdb
+C:\Users\MARIO\source\repos\Checks\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\Checks\PuppyCare\obj\Debug\netcoreapp3.1\PuppyCare.csprojAssemblyReference.cache

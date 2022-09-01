@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKm.exe
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKm.deps.json
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKm.runtimeconfig.json
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKm.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKm.dll
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKm.pdb
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKm.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKm.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKm.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKm.dll
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKm.pdb
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\DataTypesAndVariables-Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKm.genruntimeconfig.cache

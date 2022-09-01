@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.exe
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.deps.json
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.dll
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.dll
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.genruntimeconfig.cache

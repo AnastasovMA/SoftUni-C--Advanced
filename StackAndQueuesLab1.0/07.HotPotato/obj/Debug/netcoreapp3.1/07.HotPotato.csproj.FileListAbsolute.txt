@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\bin\Debug\netcoreapp3.1\07.HotPotato.exe
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\bin\Debug\netcoreapp3.1\07.HotPotato.deps.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\bin\Debug\netcoreapp3.1\07.HotPotato.runtimeconfig.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\bin\Debug\netcoreapp3.1\07.HotPotato.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\bin\Debug\netcoreapp3.1\07.HotPotato.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\bin\Debug\netcoreapp3.1\07.HotPotato.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\obj\Debug\netcoreapp3.1\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\obj\Debug\netcoreapp3.1\07.HotPotato.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\obj\Debug\netcoreapp3.1\07.HotPotato.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\obj\Debug\netcoreapp3.1\07.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\obj\Debug\netcoreapp3.1\07.HotPotato.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\obj\Debug\netcoreapp3.1\07.HotPotato.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\07.HotPotato\obj\Debug\netcoreapp3.1\07.HotPotato.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\bin\Debug\netcoreapp3.1\ForLoopsCyclesLab.exe
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\bin\Debug\netcoreapp3.1\ForLoopsCyclesLab.deps.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\bin\Debug\netcoreapp3.1\ForLoopsCyclesLab.runtimeconfig.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\bin\Debug\netcoreapp3.1\ForLoopsCyclesLab.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\bin\Debug\netcoreapp3.1\ForLoopsCyclesLab.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\bin\Debug\netcoreapp3.1\ForLoopsCyclesLab.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\obj\Debug\netcoreapp3.1\ForLoopsCyclesLab.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\obj\Debug\netcoreapp3.1\ForLoopsCyclesLab.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\obj\Debug\netcoreapp3.1\ForLoopsCyclesLab.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\obj\Debug\netcoreapp3.1\ForLoopsCyclesLab.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\obj\Debug\netcoreapp3.1\ForLoopsCyclesLab.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\obj\Debug\netcoreapp3.1\ForLoopsCyclesLab.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ForLoopsCyclesLab\obj\Debug\netcoreapp3.1\ForLoopsCyclesLab.genruntimeconfig.cache

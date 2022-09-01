@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\bin\Debug\netcoreapp3.1\TypesOfPolymorphism.exe
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\bin\Debug\netcoreapp3.1\TypesOfPolymorphism.deps.json
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\bin\Debug\netcoreapp3.1\TypesOfPolymorphism.runtimeconfig.json
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\bin\Debug\netcoreapp3.1\TypesOfPolymorphism.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\bin\Debug\netcoreapp3.1\TypesOfPolymorphism.dll
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\bin\Debug\netcoreapp3.1\TypesOfPolymorphism.pdb
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\obj\Debug\netcoreapp3.1\TypesOfPolymorphism.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\obj\Debug\netcoreapp3.1\TypesOfPolymorphism.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\obj\Debug\netcoreapp3.1\TypesOfPolymorphism.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\obj\Debug\netcoreapp3.1\TypesOfPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\obj\Debug\netcoreapp3.1\TypesOfPolymorphism.dll
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\obj\Debug\netcoreapp3.1\TypesOfPolymorphism.pdb
+C:\Users\MARIO\source\repos\LabPolymorphism\TypesOfPolymorphism\obj\Debug\netcoreapp3.1\TypesOfPolymorphism.genruntimeconfig.cache

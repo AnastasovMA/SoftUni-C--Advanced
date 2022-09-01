@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.exe
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced.genruntimeconfig.cache

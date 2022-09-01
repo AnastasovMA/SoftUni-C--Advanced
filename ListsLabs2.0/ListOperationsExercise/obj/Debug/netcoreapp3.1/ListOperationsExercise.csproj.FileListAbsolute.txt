@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\bin\Debug\netcoreapp3.1\ListOperationsExercise.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\bin\Debug\netcoreapp3.1\ListOperationsExercise.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\bin\Debug\netcoreapp3.1\ListOperationsExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\bin\Debug\netcoreapp3.1\ListOperationsExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\bin\Debug\netcoreapp3.1\ListOperationsExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\bin\Debug\netcoreapp3.1\ListOperationsExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\obj\Debug\netcoreapp3.1\ListOperationsExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\obj\Debug\netcoreapp3.1\ListOperationsExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\obj\Debug\netcoreapp3.1\ListOperationsExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\obj\Debug\netcoreapp3.1\ListOperationsExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\obj\Debug\netcoreapp3.1\ListOperationsExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\obj\Debug\netcoreapp3.1\ListOperationsExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOperationsExercise\obj\Debug\netcoreapp3.1\ListOperationsExercise.genruntimeconfig.cache

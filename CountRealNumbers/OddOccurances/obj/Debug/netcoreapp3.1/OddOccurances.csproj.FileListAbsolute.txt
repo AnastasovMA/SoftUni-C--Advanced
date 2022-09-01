@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\bin\Debug\netcoreapp3.1\OddOccurances.exe
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\bin\Debug\netcoreapp3.1\OddOccurances.deps.json
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\bin\Debug\netcoreapp3.1\OddOccurances.runtimeconfig.json
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\bin\Debug\netcoreapp3.1\OddOccurances.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\bin\Debug\netcoreapp3.1\OddOccurances.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\bin\Debug\netcoreapp3.1\OddOccurances.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\obj\Debug\netcoreapp3.1\OddOccurances.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\obj\Debug\netcoreapp3.1\OddOccurances.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\obj\Debug\netcoreapp3.1\OddOccurances.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\obj\Debug\netcoreapp3.1\OddOccurances.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\obj\Debug\netcoreapp3.1\OddOccurances.dll
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\obj\Debug\netcoreapp3.1\OddOccurances.pdb
+C:\Users\MARIO\source\repos\CountRealNumbers\OddOccurances\obj\Debug\netcoreapp3.1\OddOccurances.genruntimeconfig.cache

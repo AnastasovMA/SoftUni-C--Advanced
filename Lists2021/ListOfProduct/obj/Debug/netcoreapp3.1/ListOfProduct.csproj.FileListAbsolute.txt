@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\bin\Debug\netcoreapp3.1\ListOfProduct.exe
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\bin\Debug\netcoreapp3.1\ListOfProduct.deps.json
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\bin\Debug\netcoreapp3.1\ListOfProduct.runtimeconfig.json
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\bin\Debug\netcoreapp3.1\ListOfProduct.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\bin\Debug\netcoreapp3.1\ListOfProduct.dll
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\bin\Debug\netcoreapp3.1\ListOfProduct.pdb
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\obj\Debug\netcoreapp3.1\ListOfProduct.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\obj\Debug\netcoreapp3.1\ListOfProduct.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\obj\Debug\netcoreapp3.1\ListOfProduct.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\obj\Debug\netcoreapp3.1\ListOfProduct.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\obj\Debug\netcoreapp3.1\ListOfProduct.dll
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\obj\Debug\netcoreapp3.1\ListOfProduct.pdb
+C:\Users\MARIO\source\repos\Lists2021\ListOfProduct\obj\Debug\netcoreapp3.1\ListOfProduct.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\bin\Debug\netcoreapp3.1\04.PrintingTriangles.exe
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\bin\Debug\netcoreapp3.1\04.PrintingTriangles.deps.json
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\bin\Debug\netcoreapp3.1\04.PrintingTriangles.runtimeconfig.json
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\bin\Debug\netcoreapp3.1\04.PrintingTriangles.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\bin\Debug\netcoreapp3.1\04.PrintingTriangles.dll
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\bin\Debug\netcoreapp3.1\04.PrintingTriangles.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.dll
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\Methods-Lab\03.PrintingTriangles\obj\Debug\netcoreapp3.1\04.PrintingTriangles.csproj.AssemblyReference.cache

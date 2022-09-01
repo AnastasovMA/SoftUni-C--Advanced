@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\bin\Debug\netcoreapp3.1\ManufacturingPhones.exe
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\bin\Debug\netcoreapp3.1\ManufacturingPhones.deps.json
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\bin\Debug\netcoreapp3.1\ManufacturingPhones.runtimeconfig.json
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\bin\Debug\netcoreapp3.1\ManufacturingPhones.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\bin\Debug\netcoreapp3.1\ManufacturingPhones.dll
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\bin\Debug\netcoreapp3.1\ManufacturingPhones.pdb
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\obj\Debug\netcoreapp3.1\ManufacturingPhones.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\obj\Debug\netcoreapp3.1\ManufacturingPhones.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\obj\Debug\netcoreapp3.1\ManufacturingPhones.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\obj\Debug\netcoreapp3.1\ManufacturingPhones.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\obj\Debug\netcoreapp3.1\ManufacturingPhones.dll
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\obj\Debug\netcoreapp3.1\ManufacturingPhones.pdb
+C:\Users\MARIO\source\repos\InterfacesAndAbstractionExercise\ManufacturingPhones\obj\Debug\netcoreapp3.1\ManufacturingPhones.genruntimeconfig.cache

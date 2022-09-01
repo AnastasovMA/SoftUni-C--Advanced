@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.exe
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.deps.json
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.json
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\ProgrammingFundamentalsExam5\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csprojAssemblyReference.cache

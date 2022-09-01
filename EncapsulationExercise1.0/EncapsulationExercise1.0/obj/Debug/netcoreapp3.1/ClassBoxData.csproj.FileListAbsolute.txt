@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\obj\Debug\netcoreapp3.1\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\MARIO\source\repos\EncapsulationExercise1.0\EncapsulationExercise1.0\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

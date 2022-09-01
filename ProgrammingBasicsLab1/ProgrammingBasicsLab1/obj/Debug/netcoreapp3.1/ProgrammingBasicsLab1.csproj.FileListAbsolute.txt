@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\bin\Debug\netcoreapp3.1\ProgrammingBasicsLab1.exe
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\bin\Debug\netcoreapp3.1\ProgrammingBasicsLab1.deps.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\bin\Debug\netcoreapp3.1\ProgrammingBasicsLab1.runtimeconfig.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\bin\Debug\netcoreapp3.1\ProgrammingBasicsLab1.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\bin\Debug\netcoreapp3.1\ProgrammingBasicsLab1.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\bin\Debug\netcoreapp3.1\ProgrammingBasicsLab1.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\obj\Debug\netcoreapp3.1\ProgrammingBasicsLab1.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\obj\Debug\netcoreapp3.1\ProgrammingBasicsLab1.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\obj\Debug\netcoreapp3.1\ProgrammingBasicsLab1.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\obj\Debug\netcoreapp3.1\ProgrammingBasicsLab1.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\obj\Debug\netcoreapp3.1\ProgrammingBasicsLab1.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\obj\Debug\netcoreapp3.1\ProgrammingBasicsLab1.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsLab1\ProgrammingBasicsLab1\obj\Debug\netcoreapp3.1\ProgrammingBasicsLab1.genruntimeconfig.cache

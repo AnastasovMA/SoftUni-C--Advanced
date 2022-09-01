@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.exe
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.deps.json
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+C:\Users\MARIO\source\repos\MethodLabs2.0\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.genruntimeconfig.cache

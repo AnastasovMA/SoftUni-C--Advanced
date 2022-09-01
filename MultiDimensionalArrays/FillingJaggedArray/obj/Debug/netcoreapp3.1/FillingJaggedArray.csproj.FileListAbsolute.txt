@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\bin\Debug\netcoreapp3.1\FillingJaggedArray.exe
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\bin\Debug\netcoreapp3.1\FillingJaggedArray.deps.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\bin\Debug\netcoreapp3.1\FillingJaggedArray.runtimeconfig.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\bin\Debug\netcoreapp3.1\FillingJaggedArray.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\bin\Debug\netcoreapp3.1\FillingJaggedArray.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\bin\Debug\netcoreapp3.1\FillingJaggedArray.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\obj\Debug\netcoreapp3.1\FillingJaggedArray.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\obj\Debug\netcoreapp3.1\FillingJaggedArray.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\obj\Debug\netcoreapp3.1\FillingJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\obj\Debug\netcoreapp3.1\FillingJaggedArray.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\obj\Debug\netcoreapp3.1\FillingJaggedArray.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\FillingJaggedArray\obj\Debug\netcoreapp3.1\FillingJaggedArray.genruntimeconfig.cache

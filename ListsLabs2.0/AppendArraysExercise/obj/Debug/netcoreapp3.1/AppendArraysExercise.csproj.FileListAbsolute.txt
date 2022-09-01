@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\bin\Debug\netcoreapp3.1\AppendArraysExercise.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\bin\Debug\netcoreapp3.1\AppendArraysExercise.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\bin\Debug\netcoreapp3.1\AppendArraysExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\bin\Debug\netcoreapp3.1\AppendArraysExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\bin\Debug\netcoreapp3.1\AppendArraysExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\bin\Debug\netcoreapp3.1\AppendArraysExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\obj\Debug\netcoreapp3.1\AppendArraysExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\obj\Debug\netcoreapp3.1\AppendArraysExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\obj\Debug\netcoreapp3.1\AppendArraysExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\obj\Debug\netcoreapp3.1\AppendArraysExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\obj\Debug\netcoreapp3.1\AppendArraysExercise.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\obj\Debug\netcoreapp3.1\AppendArraysExercise.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\AppendArraysExercise\obj\Debug\netcoreapp3.1\AppendArraysExercise.genruntimeconfig.cache

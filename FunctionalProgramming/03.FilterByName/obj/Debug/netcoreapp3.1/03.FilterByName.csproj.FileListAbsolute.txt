@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\bin\Debug\netcoreapp3.1\03.FilterByName.exe
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\bin\Debug\netcoreapp3.1\03.FilterByName.deps.json
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\bin\Debug\netcoreapp3.1\03.FilterByName.runtimeconfig.json
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\bin\Debug\netcoreapp3.1\03.FilterByName.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\bin\Debug\netcoreapp3.1\03.FilterByName.dll
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\bin\Debug\netcoreapp3.1\03.FilterByName.pdb
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\obj\Debug\netcoreapp3.1\03.FilterByName.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\obj\Debug\netcoreapp3.1\03.FilterByName.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\obj\Debug\netcoreapp3.1\03.FilterByName.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\obj\Debug\netcoreapp3.1\03.FilterByName.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\obj\Debug\netcoreapp3.1\03.FilterByName.dll
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\obj\Debug\netcoreapp3.1\03.FilterByName.pdb
+C:\Users\MARIO\source\repos\FunctionalProgramming\03.FilterByName\obj\Debug\netcoreapp3.1\03.FilterByName.genruntimeconfig.cache

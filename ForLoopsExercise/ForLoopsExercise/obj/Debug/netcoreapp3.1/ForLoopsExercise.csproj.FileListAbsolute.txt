@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\bin\Debug\netcoreapp3.1\ForLoopsExercise.exe
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\bin\Debug\netcoreapp3.1\ForLoopsExercise.deps.json
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\bin\Debug\netcoreapp3.1\ForLoopsExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\bin\Debug\netcoreapp3.1\ForLoopsExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\bin\Debug\netcoreapp3.1\ForLoopsExercise.dll
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\bin\Debug\netcoreapp3.1\ForLoopsExercise.pdb
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\obj\Debug\netcoreapp3.1\ForLoopsExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\obj\Debug\netcoreapp3.1\ForLoopsExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\obj\Debug\netcoreapp3.1\ForLoopsExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\obj\Debug\netcoreapp3.1\ForLoopsExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\obj\Debug\netcoreapp3.1\ForLoopsExercise.dll
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\obj\Debug\netcoreapp3.1\ForLoopsExercise.pdb
+C:\Users\MARIO\source\repos\ForLoopsExercise\ForLoopsExercise\obj\Debug\netcoreapp3.1\ForLoopsExercise.genruntimeconfig.cache

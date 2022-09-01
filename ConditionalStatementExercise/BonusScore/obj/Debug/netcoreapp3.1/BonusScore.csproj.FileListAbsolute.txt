@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.exe
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.genruntimeconfig.cache

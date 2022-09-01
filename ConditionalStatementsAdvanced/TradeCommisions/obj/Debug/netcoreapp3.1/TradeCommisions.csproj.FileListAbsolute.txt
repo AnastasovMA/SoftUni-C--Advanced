@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\bin\Debug\netcoreapp3.1\TradeCommisions.exe
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\bin\Debug\netcoreapp3.1\TradeCommisions.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\bin\Debug\netcoreapp3.1\TradeCommisions.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\bin\Debug\netcoreapp3.1\TradeCommisions.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\bin\Debug\netcoreapp3.1\TradeCommisions.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\bin\Debug\netcoreapp3.1\TradeCommisions.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\obj\Debug\netcoreapp3.1\TradeCommisions.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\obj\Debug\netcoreapp3.1\TradeCommisions.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\obj\Debug\netcoreapp3.1\TradeCommisions.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\obj\Debug\netcoreapp3.1\TradeCommisions.dll
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\obj\Debug\netcoreapp3.1\TradeCommisions.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementsAdvanced\TradeCommisions\obj\Debug\netcoreapp3.1\TradeCommisions.genruntimeconfig.cache

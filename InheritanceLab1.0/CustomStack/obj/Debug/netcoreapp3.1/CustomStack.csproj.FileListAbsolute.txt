@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\MARIO\source\repos\InheritanceLab1.0\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

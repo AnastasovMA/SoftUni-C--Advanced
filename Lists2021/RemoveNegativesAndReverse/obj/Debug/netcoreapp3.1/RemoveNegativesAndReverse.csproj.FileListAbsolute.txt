@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.exe
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.deps.json
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\Lists2021\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csprojAssemblyReference.cache

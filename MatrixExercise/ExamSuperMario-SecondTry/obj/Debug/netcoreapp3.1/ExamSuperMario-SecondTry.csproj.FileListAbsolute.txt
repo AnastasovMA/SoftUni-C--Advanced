@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\bin\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.exe
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\bin\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.deps.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\bin\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\bin\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\bin\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.dll
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\bin\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\obj\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\obj\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\obj\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\obj\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\obj\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.dll
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\obj\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\ExamSuperMario-SecondTry\obj\Debug\netcoreapp3.1\ExamSuperMario-SecondTry.genruntimeconfig.cache

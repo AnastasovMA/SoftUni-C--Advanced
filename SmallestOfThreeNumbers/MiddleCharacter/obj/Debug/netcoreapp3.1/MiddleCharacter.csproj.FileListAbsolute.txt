@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\bin\Debug\netcoreapp3.1\MiddleCharacter.exe
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\bin\Debug\netcoreapp3.1\MiddleCharacter.deps.json
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\bin\Debug\netcoreapp3.1\MiddleCharacter.runtimeconfig.json
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\bin\Debug\netcoreapp3.1\MiddleCharacter.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\bin\Debug\netcoreapp3.1\MiddleCharacter.dll
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\bin\Debug\netcoreapp3.1\MiddleCharacter.pdb
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\obj\Debug\netcoreapp3.1\MiddleCharacter.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\obj\Debug\netcoreapp3.1\MiddleCharacter.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\obj\Debug\netcoreapp3.1\MiddleCharacter.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\obj\Debug\netcoreapp3.1\MiddleCharacter.dll
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\obj\Debug\netcoreapp3.1\MiddleCharacter.pdb
+C:\Users\MARIO\source\repos\SmallestOfThreeNumbers\MiddleCharacter\obj\Debug\netcoreapp3.1\MiddleCharacter.genruntimeconfig.cache

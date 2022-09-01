@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\bin\Debug\netcoreapp3.1\SellingExam.exe
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\bin\Debug\netcoreapp3.1\SellingExam.deps.json
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\bin\Debug\netcoreapp3.1\SellingExam.runtimeconfig.json
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\bin\Debug\netcoreapp3.1\SellingExam.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\bin\Debug\netcoreapp3.1\SellingExam.dll
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\bin\Debug\netcoreapp3.1\SellingExam.pdb
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\obj\Debug\netcoreapp3.1\SellingExam.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\obj\Debug\netcoreapp3.1\SellingExam.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\obj\Debug\netcoreapp3.1\SellingExam.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\obj\Debug\netcoreapp3.1\SellingExam.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\obj\Debug\netcoreapp3.1\SellingExam.dll
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\obj\Debug\netcoreapp3.1\SellingExam.pdb
+C:\Users\MARIO\source\repos\ExamRetakeDecember2020\SellingExam\obj\Debug\netcoreapp3.1\SellingExam.genruntimeconfig.cache

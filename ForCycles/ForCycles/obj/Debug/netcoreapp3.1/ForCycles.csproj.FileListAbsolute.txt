@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.exe
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.deps.json
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.runtimeconfig.json
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.dll
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp3.1\ForCycles.pdb
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.dll
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.pdb
+C:\Users\MARIO\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp3.1\ForCycles.genruntimeconfig.cache

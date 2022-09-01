@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.exe
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.deps.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.runtimeconfig.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\bin\Debug\netcoreapp3.1\08.TrafficJam.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\08.TrafficJam\obj\Debug\netcoreapp3.1\08.TrafficJam.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.exe
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.deps.json
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.json
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.dll
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.dll
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache

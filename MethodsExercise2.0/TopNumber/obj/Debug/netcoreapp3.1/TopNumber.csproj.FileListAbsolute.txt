@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\MARIO\source\repos\MethodsExercise2.0\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache

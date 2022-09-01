@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\bin\Debug\netcoreapp3.1\ExamWarships.exe
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\bin\Debug\netcoreapp3.1\ExamWarships.deps.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\bin\Debug\netcoreapp3.1\ExamWarships.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\bin\Debug\netcoreapp3.1\ExamWarships.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\bin\Debug\netcoreapp3.1\ExamWarships.dll
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\bin\Debug\netcoreapp3.1\ExamWarships.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\obj\Debug\netcoreapp3.1\ExamWarships.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\obj\Debug\netcoreapp3.1\ExamWarships.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\obj\Debug\netcoreapp3.1\ExamWarships.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\obj\Debug\netcoreapp3.1\ExamWarships.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\obj\Debug\netcoreapp3.1\ExamWarships.dll
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\obj\Debug\netcoreapp3.1\ExamWarships.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\ExamWarships\obj\Debug\netcoreapp3.1\ExamWarships.genruntimeconfig.cache

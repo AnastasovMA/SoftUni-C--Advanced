@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.exe
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.deps.json
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.runtimeconfig.json
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.dll
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.pdb
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.dll
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.pdb
+C:\Users\MARIO\source\repos\Checks\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.genruntimeconfig.cache

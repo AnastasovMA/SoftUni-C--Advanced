@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.exe
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.deps.json
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.runtimeconfig.json
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.dll
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\bin\Debug\netcoreapp3.1\10.LowerToUpper.pdb
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.dll
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.pdb
+C:\Users\MARIO\source\repos\DataTypesAndVariables-Lab\10.LowerToUpper\obj\Debug\netcoreapp3.1\10.LowerToUpper.genruntimeconfig.cache

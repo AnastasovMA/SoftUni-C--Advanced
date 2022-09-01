@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\MARIO\source\repos\Inheritance\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache

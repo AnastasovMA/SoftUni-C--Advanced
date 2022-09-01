@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.exe
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.deps.json
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.runtimeconfig.json
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.genruntimeconfig.cache

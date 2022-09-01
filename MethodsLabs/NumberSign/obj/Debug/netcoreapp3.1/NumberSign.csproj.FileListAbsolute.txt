@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\bin\Debug\netcoreapp3.1\NumberSign.exe
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\bin\Debug\netcoreapp3.1\NumberSign.deps.json
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\bin\Debug\netcoreapp3.1\NumberSign.runtimeconfig.json
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\bin\Debug\netcoreapp3.1\NumberSign.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\bin\Debug\netcoreapp3.1\NumberSign.dll
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\bin\Debug\netcoreapp3.1\NumberSign.pdb
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\obj\Debug\netcoreapp3.1\NumberSign.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\obj\Debug\netcoreapp3.1\NumberSign.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\obj\Debug\netcoreapp3.1\NumberSign.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\obj\Debug\netcoreapp3.1\NumberSign.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\obj\Debug\netcoreapp3.1\NumberSign.dll
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\obj\Debug\netcoreapp3.1\NumberSign.pdb
+C:\Users\MARIO\source\repos\MethodsLabs\NumberSign\obj\Debug\netcoreapp3.1\NumberSign.genruntimeconfig.cache

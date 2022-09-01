@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\bin\Debug\netcoreapp3.1\SuperMarioExam.exe
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\bin\Debug\netcoreapp3.1\SuperMarioExam.deps.json
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\bin\Debug\netcoreapp3.1\SuperMarioExam.runtimeconfig.json
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\bin\Debug\netcoreapp3.1\SuperMarioExam.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\bin\Debug\netcoreapp3.1\SuperMarioExam.dll
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\bin\Debug\netcoreapp3.1\SuperMarioExam.pdb
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\obj\Debug\netcoreapp3.1\SuperMarioExam.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\obj\Debug\netcoreapp3.1\SuperMarioExam.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\obj\Debug\netcoreapp3.1\SuperMarioExam.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\obj\Debug\netcoreapp3.1\SuperMarioExam.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\obj\Debug\netcoreapp3.1\SuperMarioExam.dll
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\obj\Debug\netcoreapp3.1\SuperMarioExam.pdb
+C:\Users\MARIO\source\repos\ExamRetakeApril2021\SuperMarioExam\obj\Debug\netcoreapp3.1\SuperMarioExam.genruntimeconfig.cache

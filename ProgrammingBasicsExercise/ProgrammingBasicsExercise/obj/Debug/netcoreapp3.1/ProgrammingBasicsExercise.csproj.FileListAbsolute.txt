@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\bin\Debug\netcoreapp3.1\ProgrammingBasicsExercise.exe
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\bin\Debug\netcoreapp3.1\ProgrammingBasicsExercise.deps.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\bin\Debug\netcoreapp3.1\ProgrammingBasicsExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\bin\Debug\netcoreapp3.1\ProgrammingBasicsExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\bin\Debug\netcoreapp3.1\ProgrammingBasicsExercise.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\bin\Debug\netcoreapp3.1\ProgrammingBasicsExercise.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\obj\Debug\netcoreapp3.1\ProgrammingBasicsExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\obj\Debug\netcoreapp3.1\ProgrammingBasicsExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\obj\Debug\netcoreapp3.1\ProgrammingBasicsExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\obj\Debug\netcoreapp3.1\ProgrammingBasicsExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\obj\Debug\netcoreapp3.1\ProgrammingBasicsExercise.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\obj\Debug\netcoreapp3.1\ProgrammingBasicsExercise.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ProgrammingBasicsExercise\obj\Debug\netcoreapp3.1\ProgrammingBasicsExercise.genruntimeconfig.cache

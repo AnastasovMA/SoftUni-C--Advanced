@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Checks\Checks\bin\Debug\netcoreapp3.1\Checks.exe
+C:\Users\MARIO\source\repos\Checks\Checks\bin\Debug\netcoreapp3.1\Checks.deps.json
+C:\Users\MARIO\source\repos\Checks\Checks\bin\Debug\netcoreapp3.1\Checks.runtimeconfig.json
+C:\Users\MARIO\source\repos\Checks\Checks\bin\Debug\netcoreapp3.1\Checks.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Checks\Checks\bin\Debug\netcoreapp3.1\Checks.dll
+C:\Users\MARIO\source\repos\Checks\Checks\bin\Debug\netcoreapp3.1\Checks.pdb
+C:\Users\MARIO\source\repos\Checks\Checks\obj\Debug\netcoreapp3.1\Checks.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\Checks\Checks\obj\Debug\netcoreapp3.1\Checks.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Checks\Checks\obj\Debug\netcoreapp3.1\Checks.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Checks\Checks\obj\Debug\netcoreapp3.1\Checks.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Checks\Checks\obj\Debug\netcoreapp3.1\Checks.dll
+C:\Users\MARIO\source\repos\Checks\Checks\obj\Debug\netcoreapp3.1\Checks.pdb
+C:\Users\MARIO\source\repos\Checks\Checks\obj\Debug\netcoreapp3.1\Checks.genruntimeconfig.cache

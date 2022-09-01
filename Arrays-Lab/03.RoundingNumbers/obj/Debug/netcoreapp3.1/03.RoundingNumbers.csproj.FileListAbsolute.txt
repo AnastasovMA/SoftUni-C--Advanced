@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.exe
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.deps.json
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.json
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+C:\Users\MARIO\source\repos\Arrays-Lab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.genruntimeconfig.cache

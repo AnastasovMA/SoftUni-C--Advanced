@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.exe
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.deps.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\MatchFullName\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csprojAssemblyReference.cache

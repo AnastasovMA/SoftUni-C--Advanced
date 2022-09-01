@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\bin\Debug\netcoreapp3.1\01.RandomiseWords.exe
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\bin\Debug\netcoreapp3.1\01.RandomiseWords.deps.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\bin\Debug\netcoreapp3.1\01.RandomiseWords.runtimeconfig.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\bin\Debug\netcoreapp3.1\01.RandomiseWords.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\bin\Debug\netcoreapp3.1\01.RandomiseWords.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\bin\Debug\netcoreapp3.1\01.RandomiseWords.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\01.RandomiseWords\obj\Debug\netcoreapp3.1\01.RandomiseWords.genruntimeconfig.cache

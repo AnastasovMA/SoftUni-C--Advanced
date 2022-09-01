@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.genruntimeconfig.cache

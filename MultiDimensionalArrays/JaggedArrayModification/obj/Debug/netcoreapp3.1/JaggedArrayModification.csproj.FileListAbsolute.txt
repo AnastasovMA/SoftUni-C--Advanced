@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.exe
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.deps.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\MARIO\source\repos\MultiDimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.genruntimeconfig.cache

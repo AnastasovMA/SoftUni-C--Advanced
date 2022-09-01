@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.exe
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.deps.json
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\MARIO\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csproj.AssemblyReference.cache

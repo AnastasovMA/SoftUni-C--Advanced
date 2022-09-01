@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.exe
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.genruntimeconfig.cache

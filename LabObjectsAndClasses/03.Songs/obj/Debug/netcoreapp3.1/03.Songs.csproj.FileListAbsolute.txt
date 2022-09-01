@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.exe
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.deps.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.dll
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.pdb
+C:\Users\MARIO\source\repos\LabObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.genruntimeconfig.cache

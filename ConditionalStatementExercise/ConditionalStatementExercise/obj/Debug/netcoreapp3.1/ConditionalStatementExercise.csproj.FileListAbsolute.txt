@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\bin\Debug\netcoreapp3.1\ConditionalStatementExercise.exe
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\bin\Debug\netcoreapp3.1\ConditionalStatementExercise.deps.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\bin\Debug\netcoreapp3.1\ConditionalStatementExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\bin\Debug\netcoreapp3.1\ConditionalStatementExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\bin\Debug\netcoreapp3.1\ConditionalStatementExercise.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\bin\Debug\netcoreapp3.1\ConditionalStatementExercise.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\obj\Debug\netcoreapp3.1\ConditionalStatementExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\obj\Debug\netcoreapp3.1\ConditionalStatementExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\obj\Debug\netcoreapp3.1\ConditionalStatementExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\obj\Debug\netcoreapp3.1\ConditionalStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\obj\Debug\netcoreapp3.1\ConditionalStatementExercise.dll
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\obj\Debug\netcoreapp3.1\ConditionalStatementExercise.pdb
+C:\Users\MARIO\source\repos\ConditionalStatementExercise\ConditionalStatementExercise\obj\Debug\netcoreapp3.1\ConditionalStatementExercise.genruntimeconfig.cache

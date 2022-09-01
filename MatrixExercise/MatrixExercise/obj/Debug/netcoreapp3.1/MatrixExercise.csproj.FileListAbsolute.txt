@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.exe
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.deps.json
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.dll
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.dll
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.genruntimeconfig.cache

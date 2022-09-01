@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.exe
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.deps.json
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.runtimeconfig.json
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.dll
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\bin\Debug\netcoreapp3.1\05.RecordUniqueNames.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.dll
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\05.RecordUniqueNames\obj\Debug\netcoreapp3.1\05.RecordUniqueNames.genruntimeconfig.cache

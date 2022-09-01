@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\bin\Debug\netcoreapp3.1\CopyingPresentation.exe
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\bin\Debug\netcoreapp3.1\CopyingPresentation.deps.json
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\bin\Debug\netcoreapp3.1\CopyingPresentation.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\bin\Debug\netcoreapp3.1\CopyingPresentation.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\bin\Debug\netcoreapp3.1\CopyingPresentation.dll
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\bin\Debug\netcoreapp3.1\CopyingPresentation.pdb
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\obj\Debug\netcoreapp3.1\CopyingPresentation.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\obj\Debug\netcoreapp3.1\CopyingPresentation.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\obj\Debug\netcoreapp3.1\CopyingPresentation.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\obj\Debug\netcoreapp3.1\CopyingPresentation.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\obj\Debug\netcoreapp3.1\CopyingPresentation.dll
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\obj\Debug\netcoreapp3.1\CopyingPresentation.pdb
+C:\Users\MARIO\source\repos\MatchFullName\CopyingPresentation\obj\Debug\netcoreapp3.1\CopyingPresentation.genruntimeconfig.cache

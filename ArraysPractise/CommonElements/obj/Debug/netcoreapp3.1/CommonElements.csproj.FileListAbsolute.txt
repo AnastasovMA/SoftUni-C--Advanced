@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.exe
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.deps.json
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.json
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.dll
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.dll
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.genruntimeconfig.cache

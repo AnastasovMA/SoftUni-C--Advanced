@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\bin\Debug\netcoreapp3.1\CharacterSequence.exe
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\bin\Debug\netcoreapp3.1\CharacterSequence.deps.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\bin\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\bin\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\obj\Debug\netcoreapp3.1\CharacterSequence.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\obj\Debug\netcoreapp3.1\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\obj\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\obj\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\ConsoleApp1\obj\Debug\netcoreapp3.1\CharacterSequence.genruntimeconfig.cache

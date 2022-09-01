@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\MARIO\source\repos\NestedConditionalStatementsExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache

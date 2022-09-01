@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\bin\Debug\netcoreapp3.1\ToyShopEXAMPLE.exe
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\bin\Debug\netcoreapp3.1\ToyShopEXAMPLE.deps.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\bin\Debug\netcoreapp3.1\ToyShopEXAMPLE.runtimeconfig.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\bin\Debug\netcoreapp3.1\ToyShopEXAMPLE.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\bin\Debug\netcoreapp3.1\ToyShopEXAMPLE.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\bin\Debug\netcoreapp3.1\ToyShopEXAMPLE.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\obj\Debug\netcoreapp3.1\ToyShopEXAMPLE.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\obj\Debug\netcoreapp3.1\ToyShopEXAMPLE.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\obj\Debug\netcoreapp3.1\ToyShopEXAMPLE.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\obj\Debug\netcoreapp3.1\ToyShopEXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\obj\Debug\netcoreapp3.1\ToyShopEXAMPLE.dll
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\obj\Debug\netcoreapp3.1\ToyShopEXAMPLE.pdb
+C:\Users\MARIO\source\repos\ProgrammingBasicsExercise\ToyShopEXAMPLE\obj\Debug\netcoreapp3.1\ToyShopEXAMPLE.genruntimeconfig.cache

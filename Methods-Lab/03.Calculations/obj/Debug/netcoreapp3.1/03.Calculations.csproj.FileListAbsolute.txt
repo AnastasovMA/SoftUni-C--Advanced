@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.exe
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.deps.json
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.json
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.dll
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.dll
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.genruntimeconfig.cache

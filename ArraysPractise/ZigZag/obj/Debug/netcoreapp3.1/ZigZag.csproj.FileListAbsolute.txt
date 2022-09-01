@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.exe
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.deps.json
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.runtimeconfig.json
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.dll
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.dll
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.pdb
+C:\Users\MARIO\source\repos\ArraysPractise\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.genruntimeconfig.cache

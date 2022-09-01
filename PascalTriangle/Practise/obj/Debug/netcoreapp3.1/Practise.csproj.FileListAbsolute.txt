@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\bin\Debug\netcoreapp3.1\Practise.exe
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\bin\Debug\netcoreapp3.1\Practise.deps.json
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\bin\Debug\netcoreapp3.1\Practise.runtimeconfig.json
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\bin\Debug\netcoreapp3.1\Practise.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\bin\Debug\netcoreapp3.1\Practise.dll
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\bin\Debug\netcoreapp3.1\Practise.pdb
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\obj\Debug\netcoreapp3.1\Practise.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\obj\Debug\netcoreapp3.1\Practise.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\obj\Debug\netcoreapp3.1\Practise.dll
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\obj\Debug\netcoreapp3.1\Practise.pdb
+C:\Users\MARIO\source\repos\PascalTriangle\Practise\obj\Debug\netcoreapp3.1\Practise.genruntimeconfig.cache

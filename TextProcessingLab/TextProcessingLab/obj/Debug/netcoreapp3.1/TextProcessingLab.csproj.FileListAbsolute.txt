@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\bin\Debug\netcoreapp3.1\TextProcessingLab.exe
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\bin\Debug\netcoreapp3.1\TextProcessingLab.deps.json
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\bin\Debug\netcoreapp3.1\TextProcessingLab.runtimeconfig.json
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\bin\Debug\netcoreapp3.1\TextProcessingLab.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\bin\Debug\netcoreapp3.1\TextProcessingLab.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\bin\Debug\netcoreapp3.1\TextProcessingLab.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\obj\Debug\netcoreapp3.1\TextProcessingLab.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\obj\Debug\netcoreapp3.1\TextProcessingLab.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\obj\Debug\netcoreapp3.1\TextProcessingLab.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\obj\Debug\netcoreapp3.1\TextProcessingLab.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\obj\Debug\netcoreapp3.1\TextProcessingLab.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\obj\Debug\netcoreapp3.1\TextProcessingLab.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\TextProcessingLab\obj\Debug\netcoreapp3.1\TextProcessingLab.genruntimeconfig.cache

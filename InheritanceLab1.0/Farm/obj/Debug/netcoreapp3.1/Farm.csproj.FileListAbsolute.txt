@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\obj\Debug\netcoreapp3.1\Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\MARIO\source\repos\InheritanceLab1.0\Farm\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache

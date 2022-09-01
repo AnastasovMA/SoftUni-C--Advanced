@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\MARIO\source\repos\ForLoopsCyclesLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

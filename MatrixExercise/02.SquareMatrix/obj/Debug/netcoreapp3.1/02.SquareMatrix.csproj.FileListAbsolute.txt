@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\bin\Debug\netcoreapp3.1\02.SquareMatrix.exe
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\bin\Debug\netcoreapp3.1\02.SquareMatrix.deps.json
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\bin\Debug\netcoreapp3.1\02.SquareMatrix.runtimeconfig.json
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\bin\Debug\netcoreapp3.1\02.SquareMatrix.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\bin\Debug\netcoreapp3.1\02.SquareMatrix.dll
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\bin\Debug\netcoreapp3.1\02.SquareMatrix.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\obj\Debug\netcoreapp3.1\02.SquareMatrix.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\obj\Debug\netcoreapp3.1\02.SquareMatrix.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\obj\Debug\netcoreapp3.1\02.SquareMatrix.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\obj\Debug\netcoreapp3.1\02.SquareMatrix.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\obj\Debug\netcoreapp3.1\02.SquareMatrix.dll
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\obj\Debug\netcoreapp3.1\02.SquareMatrix.pdb
+C:\Users\MARIO\source\repos\MatrixExercise\02.SquareMatrix\obj\Debug\netcoreapp3.1\02.SquareMatrix.genruntimeconfig.cache

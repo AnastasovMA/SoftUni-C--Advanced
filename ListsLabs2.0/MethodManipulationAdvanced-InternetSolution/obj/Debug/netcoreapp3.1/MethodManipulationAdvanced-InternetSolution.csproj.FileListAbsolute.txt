@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\bin\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.exe
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\bin\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.deps.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\bin\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.runtimeconfig.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\bin\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\bin\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\bin\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\obj\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\obj\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\obj\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\obj\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.dll
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\obj\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.pdb
+C:\Users\MARIO\source\repos\ListsLabs2.0\MethodManipulationAdvanced-InternetSolution\obj\Debug\netcoreapp3.1\MethodManipulationAdvanced-InternetSolution.genruntimeconfig.cache

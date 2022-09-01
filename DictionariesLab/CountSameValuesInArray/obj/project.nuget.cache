@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hb5F1rIcs7bm/KGYnDNEkLEKjj1jVeoWMGaSjffer8F/4E7tLGrCR55IxKZDEv6M1/mNqU4ocjfHw7wwoAw9+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MARIO\\source\\repos\\DictionariesLab\\CountSameValuesInArray\\CountSameValuesInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARIO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MARIO\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\MARIO\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\MARIO\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

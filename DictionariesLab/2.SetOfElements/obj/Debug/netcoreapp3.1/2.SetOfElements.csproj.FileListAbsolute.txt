@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\bin\Debug\netcoreapp3.1\2.SetOfElements.exe
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\bin\Debug\netcoreapp3.1\2.SetOfElements.deps.json
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\bin\Debug\netcoreapp3.1\2.SetOfElements.runtimeconfig.json
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\bin\Debug\netcoreapp3.1\2.SetOfElements.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\bin\Debug\netcoreapp3.1\2.SetOfElements.dll
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\bin\Debug\netcoreapp3.1\2.SetOfElements.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\obj\Debug\netcoreapp3.1\2.SetOfElements.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\obj\Debug\netcoreapp3.1\2.SetOfElements.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\obj\Debug\netcoreapp3.1\2.SetOfElements.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\obj\Debug\netcoreapp3.1\2.SetOfElements.dll
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\obj\Debug\netcoreapp3.1\2.SetOfElements.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\2.SetOfElements\obj\Debug\netcoreapp3.1\2.SetOfElements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch123.exe
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch123.deps.json
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch123.runtimeconfig.json
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch123.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch123.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch123.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch123.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch123.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch123.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch123.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch123.dll
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch123.pdb
+C:\Users\MARIO\source\repos\TextProcessingLab\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch123.genruntimeconfig.cache

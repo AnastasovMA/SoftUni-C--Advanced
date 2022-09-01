@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.exe
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.deps.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.runtimeconfig.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.dll
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.pdb
+C:\Users\MARIO\source\repos\StackAndQueuesLab1.0\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.genruntimeconfig.cache

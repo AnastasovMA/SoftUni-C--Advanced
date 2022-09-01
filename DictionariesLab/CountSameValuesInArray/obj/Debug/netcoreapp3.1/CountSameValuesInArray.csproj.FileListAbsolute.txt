@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.exe
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.csprojAssemblyReference.cache
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.deps.json
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.runtimeconfig.json
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.dll
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.dll
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.pdb
+C:\Users\MARIO\source\repos\DictionariesLab\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.genruntimeconfig.cache

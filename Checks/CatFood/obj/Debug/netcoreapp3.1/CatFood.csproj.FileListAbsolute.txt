@@ -1,0 +1,12 @@
+C:\Users\MARIO\source\repos\Checks\CatFood\bin\Debug\netcoreapp3.1\CatFood.exe
+C:\Users\MARIO\source\repos\Checks\CatFood\bin\Debug\netcoreapp3.1\CatFood.deps.json
+C:\Users\MARIO\source\repos\Checks\CatFood\bin\Debug\netcoreapp3.1\CatFood.runtimeconfig.json
+C:\Users\MARIO\source\repos\Checks\CatFood\bin\Debug\netcoreapp3.1\CatFood.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Checks\CatFood\bin\Debug\netcoreapp3.1\CatFood.dll
+C:\Users\MARIO\source\repos\Checks\CatFood\bin\Debug\netcoreapp3.1\CatFood.pdb
+C:\Users\MARIO\source\repos\Checks\CatFood\obj\Debug\netcoreapp3.1\CatFood.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Checks\CatFood\obj\Debug\netcoreapp3.1\CatFood.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Checks\CatFood\obj\Debug\netcoreapp3.1\CatFood.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Checks\CatFood\obj\Debug\netcoreapp3.1\CatFood.dll
+C:\Users\MARIO\source\repos\Checks\CatFood\obj\Debug\netcoreapp3.1\CatFood.pdb
+C:\Users\MARIO\source\repos\Checks\CatFood\obj\Debug\netcoreapp3.1\CatFood.genruntimeconfig.cache

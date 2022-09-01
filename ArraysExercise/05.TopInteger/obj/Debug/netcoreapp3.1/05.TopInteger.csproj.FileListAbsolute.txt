@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\bin\Debug\netcoreapp3.1\05.TopInteger.exe
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\bin\Debug\netcoreapp3.1\05.TopInteger.deps.json
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\bin\Debug\netcoreapp3.1\05.TopInteger.runtimeconfig.json
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\bin\Debug\netcoreapp3.1\05.TopInteger.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\bin\Debug\netcoreapp3.1\05.TopInteger.dll
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\bin\Debug\netcoreapp3.1\05.TopInteger.pdb
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.dll
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.pdb
+C:\Users\MARIO\source\repos\ArraysExercise\05.TopInteger\obj\Debug\netcoreapp3.1\05.TopInteger.genruntimeconfig.cache

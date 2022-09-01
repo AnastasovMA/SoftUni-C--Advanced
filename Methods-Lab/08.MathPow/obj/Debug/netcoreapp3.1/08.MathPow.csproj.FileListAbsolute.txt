@@ -1,0 +1,13 @@
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\bin\Debug\netcoreapp3.1\08.MathPow.exe
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\bin\Debug\netcoreapp3.1\08.MathPow.deps.json
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\bin\Debug\netcoreapp3.1\08.MathPow.runtimeconfig.json
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\bin\Debug\netcoreapp3.1\08.MathPow.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\bin\Debug\netcoreapp3.1\08.MathPow.dll
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\bin\Debug\netcoreapp3.1\08.MathPow.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\obj\Debug\netcoreapp3.1\08.MathPow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\obj\Debug\netcoreapp3.1\08.MathPow.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\obj\Debug\netcoreapp3.1\08.MathPow.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\obj\Debug\netcoreapp3.1\08.MathPow.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\obj\Debug\netcoreapp3.1\08.MathPow.dll
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\obj\Debug\netcoreapp3.1\08.MathPow.pdb
+C:\Users\MARIO\source\repos\Methods-Lab\08.MathPow\obj\Debug\netcoreapp3.1\08.MathPow.genruntimeconfig.cache

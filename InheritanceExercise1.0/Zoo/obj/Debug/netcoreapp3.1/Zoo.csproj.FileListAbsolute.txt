@@ -1,0 +1,14 @@
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\MARIO\source\repos\InheritanceExercise1.0\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
